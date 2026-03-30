@@ -10,7 +10,7 @@ The 'metrics_test.py' file contains the code I did to perform statistical tests.
 
 The 'Metrics_SGD.csv' file contains my raw results of running my proposed tool (it is the csv file the ISE.py code generates).
 
-The 'Metrics_Baseline.csv' file contains the raw results of running the baselines tool (baseline tool remains unchanged from lab 1 so code file is not included).
+The 'Metrics_Baseline.csv' file contains the raw results of running the baselines tool (baseline tool remains expect for lines 207 onwards where all the projects were run instead of just pytortch. But the rest is the baseline lab code.
 
 
 
