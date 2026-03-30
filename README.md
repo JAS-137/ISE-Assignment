@@ -14,3 +14,5 @@ The 'Metrics_Baseline.csv' file contains the raw results of running the baseline
 
 
 The 'metrics_test.py' contains the code to complete the statistical test.
+
+The 'avg_metrics_baseline.csv' and 'avg_metrics_SGD.csv' contains the average for each datatset for each metric so that it can be easily shown in the report.
