@@ -1,6 +1,0 @@
-dataset,Accuracy,Precision,Recall,F1
-caffe,0.869,0.672,0.587,0.599
-incubator-mxnet,0.881,0.726,0.698,0.705
-keras,0.868,0.811,0.751,0.773
-pytorch,0.88,0.73,0.672,0.692
-tensorflow,0.886,0.829,0.785,0.802
