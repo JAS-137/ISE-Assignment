@@ -1,0 +1,6 @@
+Please Ensure you have a local download version of nltk stop words https://www.nltk.org/data.html 
+
+And then change line 13 of 'ISE.py' to point to your path of stop words as it did not work by using the api call.
+
+
+
